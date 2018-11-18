@@ -1,1 +1,1 @@
-# MNIST-Sign-Kaggle-
+# MNIST-Sign-Kaggle
